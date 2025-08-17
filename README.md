@@ -3,6 +3,7 @@
 ## Setup
 Environment: Cygwin64
 
+Run the following code in cygwin64 terminal:
 ```bash
 startxwin &
 export DISPLAY=:0.0
