@@ -1,4 +1,4 @@
-# Doodle Jump Game Writeen in C++ Using Qt5
+# Doodle Jump Game Written in C++ Using Qt5
 
 ## Setup
 Environment: Cygwin64
